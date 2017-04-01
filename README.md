@@ -3,5 +3,7 @@
 
 ## 本地运行
 > npm install
+
 > npm run build
+
 > npm run start
